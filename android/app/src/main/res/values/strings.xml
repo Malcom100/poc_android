@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Poc_nativex_2</string>
+
+    <string name="title_activity">Ad activity</string>
+    <string name="btn_again">Again</string>
+    <string name="title_activity_nativex">My nativex ad</string>
+    <string name="loading_add_nativex">Loading...</string>
+</resources>
